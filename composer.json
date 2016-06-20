@@ -1,0 +1,12 @@
+{
+  "name": "cnamaq/zac2-common",
+  "type": "library",
+  "description": "Base component for zac2 library",
+  "keywords": ["framework cnamaq zac2"],
+  "authors": [
+    {"name": "Fohl Denis", "email": "denis.fohl@lecnam.net"}
+  ],
+  "require": {
+    "symfony/dependency-injection": "^3.0-stable"
+  }
+}
